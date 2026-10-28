@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+# Java (compilé automatiquement par le site ou par javac)
+moteur_java/out/
+*.class
+# Bibliothèque SAFAR : ne pas redistribuer (licence propre à ses auteurs), à placer localement
+SAFAR*.zip
+SAFAR*.jar
+# Système / éditeurs
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

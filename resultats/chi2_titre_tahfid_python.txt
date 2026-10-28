@@ -1,0 +1,21 @@
+Décisions filtrées : 94 décision(s) dans la classe / 358 dans l'univers
+   1. chi2= 198.4795 *** df_classe= 88 df_total=123 | متعرض
+   2. chi2= 179.5262 *** df_classe= 86 df_total=125 | سنتيار
+   3. chi2= 170.3443 *** df_classe= 93 df_total=150 | مطلب
+   4. chi2= 153.3350 *** df_classe= 89 df_total=146 | كناش
+   5. chi2= 152.9827 *** df_classe= 84 df_total=131 | ار
+   6. chi2= 136.7663 *** df_classe= 91 df_total=162 | محافظ
+   7. chi2= 134.7955 *** df_classe= 94 df_total=174 | تحفيظ
+   8. chi2= 134.3925 *** df_classe= 92 df_total=167 | تعرض
+   9. chi2=  93.6035 *** df_classe= 77 df_total=143 | قيد
+  10. chi2=  92.6991 *** df_classe= 81 df_total=157 | مطالب
+  11. chi2=  90.9084 *** df_classe= 90 df_total=192 | مساح
+  12. chi2=  83.6111 *** df_classe= 40 df_total= 51 | بكاف
+  13. chi2=  70.3290 *** df_classe= 33 df_total= 41 | فسجل
+  14. chi2=  67.2663 *** df_classe= 91 df_total=220 | مسم
+  15. chi2=  60.7887 *** df_classe= 40 df_total= 60 | طبوغراف
+  16. chi2=  59.2055 *** df_classe= 55 df_total=100 | صدوق
+  17. chi2=  57.7772 *** df_classe= 55 df_total=101 | اسراج
+  18. chi2=  57.7772 *** df_classe= 55 df_total=101 | شاف
+  19. chi2=  56.9542 *** df_classe= 87 df_total=214 | نزاع
+  20. chi2=  56.8012 *** df_classe= 46 df_total= 77 | وسمير

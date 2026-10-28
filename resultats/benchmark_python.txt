@@ -1,0 +1,6 @@
+Corpus : 358 documents, 8284 termes, 12 requêtes
+Résultats identiques entre les méthodes : oui
+A. Sans index (tout recalculer)   :    361.550 ms / requête
+B. Balayage de tous les documents :      0.177 ms / requête
+C. Index inversé                  :      0.102 ms / requête
+Accélération C vs A : x3,543   |   C vs B : x1.7
